@@ -46,6 +46,7 @@ Where:
 Represents mechanical systems such as suspensions or robotic arms.
 
 **Transfer Function**:
+
 $$
 G(s) = \frac{1}{s^2 + 2s + 1}
 $$
@@ -56,6 +57,7 @@ $$
 Models electric motor speed or position control.
 
 **Transfer Function**:
+
 $$
 G(s) = \frac{1}{0.5s^2 + s}
 $$
@@ -66,6 +68,7 @@ $$
 A simple dynamic system with single energy storage.
 
 **Transfer Function**:
+
 $$
 G(s) = \frac{1}{s+1}
 $$
